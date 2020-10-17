@@ -1,6 +1,6 @@
 {
   "name": "@twydev/dynamic-scheduler-aws",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A plugin to host application using AWS SDK to create dynamic schedules using AWS services.",
   "main": "dist/app.js",
   "types": "dist/app.d.ts",
